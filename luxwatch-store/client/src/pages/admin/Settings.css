@@ -1,0 +1,19 @@
+.admin-settings-page input,
+.admin-settings-page select,
+.admin-settings-page textarea {
+  width: 100%;
+  margin-top: 8px;
+}
+
+.admin-settings-page textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.admin-settings-page .admin-primary-btn {
+  margin-top: 35px;
+}
+
+.admin-settings-page form {
+  padding-bottom: 20px;
+}
